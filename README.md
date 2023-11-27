@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @raissalohanna. I'm currently a Data Scientist and also a PhD candidate in computational chemistry.
+- 👋 Hi, I’m @raissalohanna. I'm currently an entry-level Data Scientist and a PhD candidate in computational chemistry.
 
-- My current interests are on nearest neighbors algorithms and time series analysis for climate and spatial data problems. Also, I develop my research about prediction of optoelectronic properties of dye molecules.
+- My current interests are mainly Regression and Classification problems on several topics. Also, I am developing my research about predicting the optoelectronic properties of dye molecules.
 
-- I have experience data analysis techniques, and machine learning for simple/multiclass classification and Natural Language Processing problems.
+- I have experience in data analysis techniques, and machine learning for simple/multiclass classification, Natural Language Processing tasks, and recommendation systems.
 
 - 📫 HE-mail: rlgqcorrea@hotmail.com | LinkedIn profile: https://www.linkedin.com/in/raissalohannagqc/
 
